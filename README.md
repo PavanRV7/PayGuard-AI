@@ -172,25 +172,17 @@ This dataset simulates real-world mobile money transactions.
 
 ### Dataset Source
 
-Add your dataset link here:
-
 ```text
 https://drive.google.com/drive/folders/1vFLrJtEQ8DjMdd8ry4nxqpuUldx6wVnp?usp=drive_link
 ```
 
-Example:
 
-```text
-https://www.kaggle.com/datasets/ealaxi/paysim1
-```
 
 ---
 
 # 📊 Dashboard Access
 
 ## Power BI Dashboard
-
-Add your Power BI dashboard link here:
 
 ```text
 https://drive.google.com/drive/folders/1B-VgfE2zelwshIZxNpFqpxzSWPjA8oOW?usp=drive_link
@@ -202,30 +194,24 @@ https://drive.google.com/drive/folders/1B-VgfE2zelwshIZxNpFqpxzSWPjA8oOW?usp=dri
 
 ## Executive Fraud Monitoring Dashboard
 
-Add Screenshot:
-
 ```text
-Screenshots/page1.png
+Screenshots/Page 1.png
 ```
 
 ---
 
 ## Fraud Investigation Dashboard
 
-Add Screenshot:
-
 ```text
-Screenshots/page2.png
+Screenshots/Page 2.png
 ```
 
 ---
 
 ## AI Executive Intelligence Dashboard
 
-Add Screenshot:
-
 ```text
-Screenshots/page3.png
+Screenshots/Page 3.png
 ```
 
 ---
@@ -235,10 +221,8 @@ Screenshots/page3.png
 ```text
 PayGuard-AI/
 │
-├── Dashboard/
 ├── Notebooks/
 ├── Screenshots/
-├── src/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -273,7 +257,7 @@ PayGuard AI helps organizations:
 
 ## Pavan R V
 
-AI/ML Enthusiast | Data Analytics | Power BI Developer
+Data Analyst | Risk Analyst | Business Analyst
 
 GitHub:
 
