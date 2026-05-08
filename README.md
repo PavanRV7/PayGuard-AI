@@ -272,13 +272,3 @@ https://www.linkedin.com/in/pavan-r-v
 ```
 
 ---
-
-# 🏆 Resume Highlight
-
-Developed an AI-powered fraud detection and intelligence platform using Machine Learning, Random Forest, Python, and Power BI capable of real-time fraud scoring, transaction investigation, and executive fraud analytics visualization.
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
